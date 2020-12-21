@@ -4,3 +4,4 @@ testing
 
 ls
 
+local config
